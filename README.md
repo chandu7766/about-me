@@ -21,4 +21,4 @@ Below are the recommended which i have used for github
 ## Contributors 
 I am Sai Chandu Gampa and currently pursuing my Maters in Applied Computer Science at Nortwest Missouri State University.
 
-[PIC](PIC.jpg) 
+![PIC](PIC.jpg) 
