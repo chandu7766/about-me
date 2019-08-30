@@ -21,4 +21,4 @@ Below are the recommended which i have used for github
 ## Contributors 
 I am Sai Chandu Gampa and currently pursuing my Maters in Applied Computer Science at Nortwest Missouri State University.
 
-![Pic](https://drive.google.com/open?id=1-lEoxhaonUW_Lw2wZptJC3smdQSJ7Pfb)
+![Pic](https://drive.google.com/file/d/1-lEoxhaonUW_Lw2wZptJC3smdQSJ7Pfb/view?usp=sharing)
